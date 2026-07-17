@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B1A&center=true&vCenter=true&width=600&lines=A+wire+guided+missile+system%2C+shown+in+https%3A%2F%2Fkevinlabs.dev%2F)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B1A&center=true&vCenter=true&width=600&lines=Tow+System+Demo%2F)
 
 A little rundown on the code, I had separated main functionalities into modules, however, this is an older version of the code (I shall update it with the modules, but it works identically to the current version)
 
